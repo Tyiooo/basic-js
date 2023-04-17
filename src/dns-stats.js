@@ -37,7 +37,6 @@ function getDNSStats(domains) {
       else result[curPart] = 1;
     }
   }
-
   return result;
 }
 
